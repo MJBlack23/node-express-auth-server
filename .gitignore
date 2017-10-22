@@ -1,2 +1,9 @@
+
+# Node Modules
 node_modules
-config.js
+
+# Env Vars
+.env
+
+# files created from tests
+test/token.json
